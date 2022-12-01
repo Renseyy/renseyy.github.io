@@ -18,3 +18,6 @@ To język schematów, połączony z lekkim językiem skryptowym, używany w wiel
 
 Oraz dodatkowo jednego znacznika 'asynchronicznego'
 - `<? ?>` - pozwala zadać pytanie użytkownikowi podczas generowania
+
+
+
