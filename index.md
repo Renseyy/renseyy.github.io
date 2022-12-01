@@ -17,5 +17,6 @@ To język schematów, połączony z lekkim językiem skryptowym, używany w wiel
 - `<@ @>` - znacznik odwołania się do zasobu
 - `<: :>` - znacznik routingu
 - `<+ +>` - znacznik dynamicznie dołączanych treści
+
 Oraz dodatkowo jednego znacznika 'asynchronicznego'
 - `<? ?>` - pozwala zadać pytanie użytkownikowi podczas generowania
