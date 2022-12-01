@@ -20,4 +20,4 @@ Oraz dodatkowo jednego znacznika 'asynchronicznego'
 - `<? ?>` - pozwala zadać pytanie użytkownikowi podczas generowania
 
 
-
+* * *
