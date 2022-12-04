@@ -8,7 +8,7 @@ która, za nie długo (mam nadzieję), zostanie przeniesiona do systemu CSL lub 
 ### [CSL](./pages/csl.md)
 **Cascade Script Language** to asynchroniczny, całkowicie objektowy, kaskadowy język programowania o słabym typowaniu. Transpilowany do *JS* [w zamyśle także do *PHP*, *C++* oraz *Logua*]. Pozwala tworzyć pełne aplikacje, pisząc jednocześnie kod serwerowy i kliencki. Dzięki zaimplementowaniu systemu **LogOS PLATON** wspiera wymianę informacji mięcy wieloma instancjami. Stworzony aby być prostym w zrozumieniu, w większości składniowo kompatybilny z *SCSS* oraz *JavaScript*em
 
-### STag
+### [STag](./pages/stag.md)
 To język schematów, połączony z lekkim językiem skryptowym, używany w wielu moich projektach, posiadający wsparcie dla baz danych, a zatem, także mogący generować dynamicznie treści. Opiera się na kilku znacznikach:
 - `<% %>` - znacznik podstawienia wartości
 - `<$ $>` - znacznik wykonania funkcji
