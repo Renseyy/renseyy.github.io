@@ -1,4 +1,5 @@
 # ParseCalcSymbol - parsowanie Symboli matematycznych
+
 ### Funkcja pobiera tekst i sprawdza czy operacja jest operacją jedną z poniższej listy:
 ## OPERACJE ARYTMETYCZNE
 ####  Operacje oznaczone {P} są rozwiązywane na etapie parsowania a nie lekserowania
