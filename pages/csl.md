@@ -69,4 +69,3 @@
   - [ >>> ]             Przesunięcie w prawo bez znaku                         UnsignedRightShift
  ### 
  ### TODO: Operatory strumieni danych
- ###  
